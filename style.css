@@ -1,0 +1,892 @@
+.omdo{
+    font-size: 73px;
+    margin-top: 20px;
+    margin-left: 50px;
+    font-weight: bold;
+    margin-bottom: 0%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 1 px;
+}
+.lah{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.kotak{
+    background-color: black;
+    padding: 2px;
+    margin-left: 50px;
+    width: 1140px;
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+.gabungan{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0%;
+    font-size: 25px;
+    height: 40px;
+}
+.sunny{
+    background-color: white;
+    width: 150px;
+    height: 40px;
+    border: 2px solid #000B8D;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-right: 74px;
+    font-size: 25px;
+    align-items: center;
+    
+}
+.lorem{
+    margin-left: 50px;
+}
+.laum{
+    display: flex;
+    gap: 5px;
+    margin-left: 50px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.king{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.bar{
+    display: flex;
+    gap: 30px;
+    margin-left: 50px;
+    font-size: 20px;
+    align-items: center;
+}
+.mcl{
+    color: #FF8700;
+}
+.fer{
+    color: #FF2800;
+}
+.bull{
+    color:  #000B8D;
+}
+.mer{
+    color: #00A19B;
+}
+.fotonorris{
+    position: relative;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.textshape{
+    position: absolute;
+    bottom: 10px;
+    left: 20px;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+.coc{
+    display: flex;
+    margin-left: 517px;
+    gap: 20px;
+    align-items: center
+    
+}
+.nol{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    margin-left: 50px;
+    align-items: safe;
+    margin-right: 90px;
+}
+.nom{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-right: 90px;
+}
+.rumput{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.laut{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.papaya{
+    margin-left: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.des{
+    margin-left: 50px;
+    font-size: medium;
+}
+.karir{
+    margin-left: 35px;
+    font-size: medium;
+    margin-bottom: 40px;
+}
+.masdo{
+    position: relative;
+    margin: 0%;
+    width: 1263px;
+    height: 350px;
+}
+.huah{
+    text-decoration: underline;
+}
+.hai{
+    text-decoration: underline;
+}
+.news{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.argument{
+    margin-left: 50px;
+}
+.taxi{
+    color: #ed7e00;
+}
+.huho{
+    color: #ed7e00;
+}
+.hahi{
+    color: #ed7e00;
+}
+.air{
+    text-decoration: none;
+}
+.hmm{
+    color: #000B8D;
+}
+.rb{
+    color: #000B8D;
+}
+.putra{
+    color: #FF2800;
+}
+.fr{
+    color: #FF2800;
+}
+.lando{
+    font-size: medium;
+    font-weight: bold;
+}
+.max{
+    font-size: medium;
+    font-weight: bold;
+}
+.charles{
+    font-size: medium;
+    font-weight: bold;
+}
+.tal{
+    font-size: medium;
+}
+.fia{
+    color: #227eff;
+}
+.tal{
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.george{
+    font-size: medium;
+    font-weight: bold;
+}
+.layla{
+    color: #00A19B;
+}
+.dez{
+    color: #00A19B;
+}
+.lili{
+    color: #ed7e00;
+}
+.ren{
+    color: #ed7e00;
+}
+.fahh{
+    font-family: 'Times New Roman', Times, serif;
+}
+.oscar{
+    font-size: medium;
+    font-weight: bold;
+}
+.landoheader{
+    position: absolute;
+    bottom: 10px;
+    left: 30px;
+    color: white;
+    font-size: 60px;
+    font-family: fantasy;
+    display: flex;
+    justify-content: center;
+    gap: 475px;
+}
+.uhda{
+    position: relative;
+    background-color: #227eff;
+    width: 10px;
+    height: 110px;
+    margin-left: 50px;
+}
+.bil{
+    width: 600px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.naga{
+    background-color: #FF8700;
+    width: 5px;
+    height: 0px;
+}
+.rb21{
+    position: absolute;
+    margin-left: 30px;
+    font-size: 50px;
+    bottom: 5px;
+}
+.oalah{
+    white-space: nowrap;
+    position: absolute;
+    margin-left: 30px;
+    bottom: 10px;
+    font-size: 40px;
+}
+.yupi{
+    margin-left: 50px;
+}
+.hab{
+    margin-bottom: 40px;
+}
+.f3{
+    margin-bottom: 22px;
+}
+.f4{
+    margin-bottom: 25px;
+}
+.gal{
+    margin-bottom: 25px;
+}
+.naga{
+    background-color: #FF8700;
+    width: 5px;
+    height: 50px;
+}
+.kunci{
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    margin-top: -20px;
+}
+.kata{
+    font-size: 50px;
+    font-family: sans-serif;
+}
+.isitag{
+    display: flex;
+    gap: 30px;
+    margin-left: 50px;
+    margin-top: -30px;
+    font-size: 30px;
+    align-items: center;
+}
+.geroge{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.kotakin{
+    position: relative;
+    background-color: white;
+    border: 3px solid #22aeff;
+    border-radius: 10px;
+    width: 60px;
+    height: 40px;
+}
+.ubin{
+    display: flex;
+    position: absolute;
+    text-decoration: none;
+    color: #22aeff;
+}
+.sir{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.yur{
+    border: 3px solid #22aeff;
+    border-radius: 10px;
+    width: 190px;
+    height: 40px;
+}
+.lantai{
+    position: absolute;
+    text-decoration: none;
+    color: #22aeff;
+}
+.roki{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.broko{
+    border: 3px solid #22aeff;
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+}
+.brush{
+    position: absolute;
+    color: #22aeff;
+
+}
+.maxi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.barbel{
+    border: 3px solid #22aeff;
+    border-radius: 10px;
+    width: 170px;
+    height: 40px;
+}
+.bicep{
+    position: absolute;
+    color: #22aeff;
+}
+.habede{
+
+}
+.bohk{
+    display: flex;
+    gap: 30px;
+    margin-left: 50px;
+    font-size: 30px;
+    align-items: center;
+    margin-top: 20px;
+}
+.limat{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.sepre{
+    border: 3px solid #22aeff;
+    border-radius: 10px;
+    width: 75px;
+    height: 40px;
+}
+.han{
+    position: absolute;
+    color: #22aeff;
+    letter-spacing: 2px;
+}
+.jantung{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pisan{
+    border: 3px solid #22aeff;
+    border-radius: 10px;
+    width: 110px;
+    height: 40px;
+}
+.buah{
+    position: absolute;
+    color: #22aeff;
+}
+.bagiankredit{
+    margin-top: -50px;
+    margin-left: 50px;
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.yuno{
+    color: #22aeff;
+}
+.tulu{
+    margin-top: -30px;
+    background-color: #22aeff;
+    width: 1050px;
+    height: 5px;
+}
+.hotnews{
+    margin-top: 80px;
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+}
+.ukam{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.buku{
+    margin-top: 25px;
+    font-size: 30px;
+    font-family: sans-serif;
+    flex-direction: column;
+}
+.yaju{
+    display: flex;
+    flex-direction: column;
+    
+}
+.nasir{
+    margin-top: -50px;
+    display: flex;
+    gap: 30px;
+    font-size: 30px;
+}
+.reak{
+    background-color: #22aeff;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+}
+.taru{
+    letter-spacing: 2px;
+}
+.oleh{
+    color: rgb(156, 156, 156);
+}
+.awalan{
+    margin-top: 80px;
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+}
+.tangga{
+    display: flex;
+    gap: 30px;
+}
+.dikeduaan{
+    margin-top: 25px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.papaya{
+    margin-left: 50px;
+}
+.keduaan{
+    margin-top: -30px;
+}
+.tangga{
+    margin-top: -50px;
+    font-size: 30px;
+}
+.akhirann{
+    letter-spacing: 2px;
+}
+.proo{
+    background-color: #22aeff;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+}
+.row{
+    color: rgb(156, 156, 156) ;
+}
+.merah{
+    display: flex;
+    gap: 30px;
+    margin-left: 50px;
+    margin-top: 80px;
+}
+.wdc{
+    margin-top: -45px;
+}
+.wdcc{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.england{
+    display: flex;
+    gap: 30px;
+    margin-top: -50px;
+    font-size: 30px;
+}
+.inggris{
+    background-color: #22aeff;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+}
+.ppot{
+    letter-spacing: 2px;
+}
+.vers{
+    display: flex;
+    gap: 30px;
+    margin-left: 50px;
+    margin-top: 80px;
+}
+.belanda{
+    margin-top: -45px;
+}
+.liba{
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.jagoan{
+    display: flex;
+    gap: 30px;
+    margin-top: -50px;
+    font-size: 30px;
+}
+.ajax{
+    background-color: #22aeff;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+}
+.hamster{
+    letter-spacing: 2px;
+}
+.brot{
+    color: rgb(156, 156, 156) ;
+}
+.kimi{
+    display: flex;
+    gap: 30px;
+    margin-left: 50px;
+    margin-top: 80px;
+}
+.kim{
+    margin-top: -45px;
+}
+.anto{
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.golok{
+    text-decoration: none;
+    color: black;
+}
+.neli{
+    display: flex;
+    gap: 30px;
+    margin-top: -50px;
+    font-size: 30px;
+}
+.italian{
+    background-color: #22aeff;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+}
+.rokie{
+    letter-spacing: 2px;
+}
+.wiliams{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 80px;
+    gap: 30px;
+}
+.wili{
+    margin-top: -45px;
+    font-size: 30px;
+}
+.thai{
+    font-family: sans-serif;
+}
+.albon{
+    display: flex;
+    gap: 30px;
+    margin-top: -50px;
+}
+.bon{
+    background-color: #22aeff;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+}
+.liams{
+    color: rgb(156, 156, 156);
+}
+.los{
+    letter-spacing: 2px;
+}
+
+.cadillac{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 80px;
+    gap: 30px;
+}
+.cadil{
+    margin-top: -45px;
+    font-size: 30px;
+}
+.lac{
+    font-family: sans-serif;
+}
+.bot{
+    display: flex;
+    gap: 30px;
+    margin-top: -50px;
+}
+.per{
+    background-color: #22aeff;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+}
+.rez{
+    color: rgb(156, 156, 156);
+}
+.tas{
+    letter-spacing: 2px;
+}
+
+.astonmartin{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 80px;
+    gap: 30px;
+}
+.aston{
+    margin-top: -45px;
+    font-size: 30px;
+}
+.alon{
+    font-family: sans-serif;
+}
+.martin{
+    display: flex;
+    gap: 30px;
+    margin-top: -50px;
+}
+.alonso{
+    background-color: #22aeff;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+}
+.stroll{
+    color: rgb(156, 156, 156);
+}
+.lance{
+    letter-spacing: 2px;
+}
+
+.bullvisa{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 80px;
+    gap: 30px;
+}
+.visa{
+    margin-top: -45px;
+    font-size: 30px;
+}
+.racing{
+    font-family: sans-serif;
+}
+.arvin{
+    display: flex;
+    gap: 30px;
+    margin-top: -50px;
+}
+.linblad{
+    background-color: #22aeff;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+}
+.blad{
+    color: rgb(156, 156, 156);
+}
+.vin{
+    letter-spacing: 2px;
+}
+.alpine{
+    display: flex;
+    gap: 30px;
+    margin-left: 50px;
+    margin-top: 80PX;
+}
+.franco{
+    margin-top: -45px;
+}
+.alpi{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.colapinto{
+    display: flex;
+    gap: 30px;
+    font-size: 30px;
+    margin-top: -50px;
+}
+.pine{
+    background-color: #22aeff;
+    padding-left: 5px;
+    padding-right: 5px;
+    color: white;
+}
+.kingpinto{
+    color: rgb(156, 156, 156) ;
+}
+.lux{
+    letter-spacing: 2px;
+}
+.jam{
+    margin-top: -40px;
+    font-size: 30px;
+    color: rgb(156, 156, 156);
+}
+.uguy{
+    margin-top: -40px;
+    font-size: 30px;
+    color: rgb(156, 156, 156);
+}
+.ogoy{
+    margin-top: -40px;
+    font-size: 30px;
+    color: rgb(156, 156, 156);
+}
+.tabur{
+    margin-top: -40px;
+    font-size: 30px;
+    color: rgb(156, 156, 156);
+}
+.pres{
+    margin-top: -40px;
+    font-size: 30px;
+    color: rgb(156, 156, 156);
+}
+.yordan{
+    margin-top: -40px;
+    font-size: 30px;
+    color: rgb(156, 156, 156);
+}
+.mex{
+    margin-top: -40px;
+    font-size: 30px;
+    color: rgb(156, 156, 156);
+}
+.stev{
+    margin-top: -40px;
+    font-size: 30px;
+    color: rgb(156, 156, 156);
+}
+.yupa{
+    margin-top: -40px;
+    font-size: 30px;
+    color: rgb(156, 156, 156);
+}
+.pinnn{
+    margin-top: -40px;
+    font-size: 30px;
+    color: rgb(156, 156, 156);
+}
+.kredit{
+    position: relative;
+    margin-left: -10px;
+    margin-right: -px;
+    margin-top: 200px;
+    margin-bottom: -50px;
+}
+.kantor{
+    position: absolute;
+    color: white;
+    z-index: 2 ;
+    bottom: 320px;
+    left: 55px;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+.ketentuan{
+    position: absolute;
+    left: 490px;
+    bottom: 175px;
+    color: white;
+    font-size: 30px ;
+    font-family: sans-serif;
+
+}
+.uli{
+    margin-left: -20px;
+}
+.linkterkait{
+    position: absolute;
+    bottom: 115px;
+    left: 920px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.terkait{
+    margin-left: -20px;
+}
+.copyright{
+    position: absolute;
+    bottom: 10px;
+    left: 30px;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: white;
+}
+.my{
+    position: absolute;
+    color: white;
+    bottom: 100px;
+    left: 150px;
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-bottom: -10px;
+   
+}
+.App{
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+.donwload{
+    display: flex ;
+    flex-direction: row;
+    gap: 160px;
+    margin-left: -50px;   
+}
+.play{
+    display: flex;
+    gap: 80px;
+    margin-left: -90px;
+    margin-top: 10px;
+}
+.play1{
+    border: 4px solid white;
+    border-radius: 5px;
+}
+.play2{
+    border: 4px solid white;
+    border-radius: 5px;
+}
+
+.apple{
+    display: flex;
+    gap: 80px;
+    margin-left: -90px;
+    margin-top: 10px;
+}
+.apple1{
+    border: 4px solid white;
+    border-radius: 5px;
+}
+.apple2{
+    border: 4px solid white;
+    border-radius: 5px;
+}
